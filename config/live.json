@@ -1,0 +1,16 @@
+{
+    "PRIVKEY": "",
+    "FULLCHAIN": "",
+    "DB_URL": "",
+    "DB_NAME": "",
+    "PORT": "",
+    "BASE_URL": "",
+    "FCMSERVERKEY": "",
+    "BUCKET_NAME": "",
+    "ACCESSKEYS3": "",
+    "SECRETACCESSKEY" : "",
+    "region": "",
+    "S3URL": "",
+    "jwtSecretKey": "",
+    "expiresIn": ""
+}
